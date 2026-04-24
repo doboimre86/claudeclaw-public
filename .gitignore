@@ -1,0 +1,25 @@
+store/
+node_modules/
+.env
+*.db
+*.db-shm
+*.db-wal
+dist/
+.claude/
+/agents/
+# de a templates/agents/ legyen tracked (sablon JSON-ok)
+CLAUDE.md
+SOUL.md
+*.pid
+*.bak*
+web/*.min.*
+
+# 2026-04-18: runtime caches és backup fájlok
+.playwright-mcp/
+.session-log
+scripts/**/*.bak.*
+*.md.bak.*
+CLAUDE.md.bak.*
+
+# Runtime queue state (Zara social posts)
+social-pending.json

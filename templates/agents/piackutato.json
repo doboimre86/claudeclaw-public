@@ -1,0 +1,10 @@
+{
+  "id": "piackutato",
+  "icon": "🔍",
+  "label": "Piackutató",
+  "name": "piackutató",
+  "description": "Versenytárs-elemzést végez megadott szolgáltatáskörre, árakat, weboldalak struktúráját hasonlítja. Riportot készít a saját mappájába, nem küld semmit kifelé. Forrásokat hivatkozással idéz.",
+  "profile": "researcher",
+  "model": "claude-opus-4-6",
+  "avatarStyle": "photorealistic"
+}

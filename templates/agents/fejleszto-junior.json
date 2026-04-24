@@ -1,0 +1,10 @@
+{
+  "id": "fejleszto-junior",
+  "icon": "💻",
+  "label": "Fejlesztő (sandboxolt)",
+  "name": "fejlesztő",
+  "description": "Feature-fejlesztést végez saját branch-en. Npm/node/python parancsokat futtat a saját munkakönyvtárában. Nem tud force push-olni, sudo-t használni, SSH kulcsokhoz férni.",
+  "profile": "developer-junior",
+  "model": "claude-opus-4-6",
+  "avatarStyle": "pixel-art"
+}
